@@ -1,4 +1,5 @@
 # TW3_dlcWeatherArtifactRemastered_UA
+<img width="3840" height="2160" alt="mod_tw3_dlcWeatherArtifactRemastered_7028_main_preview" src="https://github.com/user-attachments/assets/c4d57859-36e1-4707-8d65-a3004ac12f9f" />
 
 UA: Українська локалізація для The Witcher3 DLC Доповнення: Погодний артефакт
 
